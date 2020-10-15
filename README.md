@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pipiena</h1>
-<h3 align="center">A beginner frontend developer from New Caldonia</h3>
+<h3 align="center">A beginner frontend developer</h3>
 
 - ⚡ Fun fact **to do this readme**
 
