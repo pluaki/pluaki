@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pipiena</h1>
 
-- ⚡ Fun fact **to do this readme**
+I'm a software developer with a background in application integration, technical analysis, and support.
+
+I enjoy exploring unfamiliar technical topics, understanding complex situations, and finding ways to make things work better.
+
+I like learning through hands-on experience and working on a variety of technical challenges.
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
